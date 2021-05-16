@@ -7,10 +7,12 @@ import streamlit as st
 from PIL import Image
 
 #Twitter API Credentials
-consumer_key="D8fYcWlanXo3Bymvzz3eozqSt"
-consumer_secret="JAQAMThv6kUguYCXpOZyKqmMSduBtEuCfR0rTcPSzakcQDAjXW"
-access_token="1205110377513545728-ZMu0EpeB34ZJvTrfAKjp2DrRQBBq7O"
-access_token_secret="BIz4g4yVy10lhySPAzFHIWiqR4dAXrcH5Ex1xDlCCSzmQ"
+consumer_key="xxxxxxxxxxxxxxxxxx"
+consumer_secret="XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+access_token="xxxxxxxxxxxxxxxxxxxxxxxxxxx"
+access_token_secret="XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+#API credentials are subject to security issue and cannot be shown.
+
 #Create the Authentication Object
 auth=tweepy.OAuthHandler(consumer_key,consumer_secret)
 
