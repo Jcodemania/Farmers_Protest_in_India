@@ -11,6 +11,6 @@
 
 <h4>This project will be completed into three phases:</h4>
 <p>
-  <b>Building a Corpus:</b> I have used Tweepy Library to gather text data from Twitter’s API with special keyword(#FarmerBill or #FarmerProtest).
-<b>Analyzing text:</b> Sentiment analysis to determine the attitude of the mass is positive, negative or neutral towards the subject of interest. For that I have used TextBlob python library to calculate sentiments.
+  <b>Building a Corpus:</b> I have used Tweepy Library to gather text data from Twitter’s API with special keyword(#FarmerBill or #FarmerProtest).<br>
+<b>Analyzing text:</b> Sentiment analysis to determine the attitude of the mass is positive, negative or neutral towards the subject of interest. For that I have used TextBlob python library to calculate sentiments.<br>
 <b>Visualizing results:</b> Graphical representation of the sentiments is done using streamlit library and wordCloud. And this project is deployed using a platform named Streamlit.</p>
