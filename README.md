@@ -1,4 +1,4 @@
-#Sentiment Analysis on the Tweets of People of India about Farmers Protest Using Twitter API
+Sentiment Analysis on the Tweets of People of India about Farmers Protest Using Twitter API
 
 
 Introduction
