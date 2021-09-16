@@ -25,7 +25,7 @@ api=tweepy.API(auth)
 #Using Streamlit for Visualization
 page=st.sidebar.selectbox("Choose a page", ["Bar Graph","Line Graph","WordCloud"])
 st.write("""
-  # Sentiment Analysis on Tweets of the People of India on Farmers Protest...
+  # Sentiment Analysis on Twitter data about Farmer Bill Using Twitter API
   Analyse the sentiments of the people of India!
   """)
 image=Image.open('fb.jpg')
