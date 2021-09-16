@@ -30,7 +30,7 @@ st.write("""
   """)
 image=Image.open('fb.jpg')
 image_style = {'width': '50px', 'height':'30px'}
-st.image(image, style=image_style)
+st.image(image)
 
 #Extract the tweets from the twitter user
 results=api.search(q="#FarmersProtest", lang="en", result_type="recent",  count=1000)
