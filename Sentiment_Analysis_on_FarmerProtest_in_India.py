@@ -28,7 +28,7 @@ st.write("""
   # Sentiment Analysis on Tweets of the People of India on Farmers Protest...
   Analyse the sentiments of the people of India!
   """)
-image=Image.open('D:/Jyoti/StudyMaterial/4thSem/TermProject2021/DataMining/fb.jpg')
+image=Image.open('fb.jpg')
 image_style = {'width': '50px', 'height':'30px'}
 st.image(image, style=image_style)
 
