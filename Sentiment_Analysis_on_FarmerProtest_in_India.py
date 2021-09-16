@@ -7,10 +7,10 @@ import streamlit as st
 from PIL import Image
 
 #Twitter API Credentials
-consumer_key="xxxxxxxxxxxxxxxxxxxxx"
-consumer_secret="XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
-access_token="xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
-access_token_secret="XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+consumer_key="D8fYcWlanXo3Bymvzz3eozqSt"
+consumer_secret="JAQAMThv6kUguYCXpOZyKqmMSduBtEuCfR0rTcPSzakcQDAjXW"
+access_token="1205110377513545728-ZMu0EpeB34ZJvTrfAKjp2DrRQBBq7O"
+access_token_secret="BIz4g4yVy10lhySPAzFHIWiqR4dAXrcH5Ex1xDlCCSzmQ"
 #API Credentials are subject to security issues and cannot be shown
 
 #Create the Authentication Object
