@@ -22,9 +22,9 @@
 <li>Tweepy Library</li>
 <li>Twitter API</li>
 <li>TextBlob Library</li>
+<li>Streamlit library</li>
 <li>Pandas</li>
 <li>WordCloud</li>
-<li>Streamlit library</li>
 </ul>  
 
 <h4>Project Specifications</h4>
