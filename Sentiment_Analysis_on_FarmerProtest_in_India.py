@@ -32,7 +32,7 @@ image=Image.open('fb.jpg')
 image_style = {'width': '50px', 'height':'30px'}
 st.image(image)
 
-#Extract the tweets from the twitter user
+#Extract the tweets from the twitter users
 results=api.search(q="#FarmersProtest", lang="en", result_type="recent",  count=1000)
 
 #Create dataframe with column named Tweets
